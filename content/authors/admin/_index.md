@@ -42,9 +42,13 @@ education:
     - course: B.Tech in Computer Science Engineering
       institution: IIIT Pune
       year: 2025
+      grade: 9.02
+      Rank: 3/180
     - course: Honors in Machine Learning
       institution: IIIT Pune
       year: 2023
+      grade: 10.0
+      Rank: 1
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -133,5 +137,5 @@ social:
 highlight_name: true
 ---
 
-Amogh Gupta is a undergraduate at IIIT Pune. He is pursuing Computer science along with honors in machine learning. He is fond of machine learning, deep learning, NLP, data science and is intrigued by entrepreneurship and innovation. His extracurricular interests lie in doing community work , chess and table tennis. He is a team player and is socially sound.
+Amogh Gupta is an undergraduate at IIIT Pune. He is pursuing Computer science along with honors in machine learning. He is fond of machine learning, deep learning, NLP, data science and is intrigued by entrepreneurship and innovation. His extracurricular interests lie in doing community work , chess and table tennis. He is a team player and is socially sound.
 {style="text-align: justify;"}
