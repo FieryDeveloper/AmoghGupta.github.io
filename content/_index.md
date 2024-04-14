@@ -102,7 +102,7 @@ sections:
         - title: Research Intern
           company: IIIT Pune
           company_url: ''
-          company_logo: 
+          company_logo: 918px-IIITP_logo
           location: 
           date_start: '2022-05-01'
           date_end: '2024-02-01'
