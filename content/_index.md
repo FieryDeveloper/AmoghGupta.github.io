@@ -167,11 +167,8 @@ sections:
       flip_alt_rows: false
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
@@ -214,6 +211,14 @@ sections:
           link: 'amoghag2003@gmail.com'
       # Automatically link email and phone or display as text?
       autolink: true
+      # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
     design:
       columns: '2'
 ---
