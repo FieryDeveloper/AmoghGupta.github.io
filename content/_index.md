@@ -74,7 +74,7 @@ sections:
         - title: Research Intern
           company: IIT Indore
           company_url: ''
-          company_logo: 
+          company_logo: logo
           location: 
           date_start: '2024-01-10'
           date_end:
@@ -84,7 +84,7 @@ sections:
         - title: Machine Learning Intern
           company: DRDO ( Research Centre Imaarat )
           company_url: ''
-          company_logo: 
+          company_logo: drdo-official-seeklogo
           location: 
           date_start: '2023-06-01'
           date_end: '2023-07-10'
@@ -93,7 +93,7 @@ sections:
         - title: Data Analytics Intern
           company: Jio Platforms Ltd.
           company_url: ''
-          company_logo: 
+          company_logo: reliance-jio-infocomm-ltd-logo-vector-2022
           location: 
           date_start: '2023-04-01'
           date_end: '2023-06-01'
