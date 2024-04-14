@@ -63,26 +63,42 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Intern
-          company: IIT Indore
+          company: IIT Kharagpur
           company_url: ''
           company_logo: iitkgp.svg
           location: 
-          date_start: '2024-01-15'
+          date_start: '2024-04-10'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              Working on Red teaming LLMs.
+        - title: Research Intern
+          company: IIT Indore
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: 
+          location: 
+          date_start: '2024-01-10'
+          date_end:
+          description:
+           Working on a project based on summarization incoorporating LLMs and novel methods.
+           Working on another project based on flood segmentation.
+        - title: Machine Learning Intern
+          company: DRDO ( Research Centre Imaarat )
+          company_url: ''
+          company_logo: 
+          location: 
+          date_start: '2023-06-01'
+          date_end: '2023-07-10'
+          description:
+           Worked on analysing system logs for anomaly detection. Deployed machine learning algorithms to filter out about 50 anomalies from a set of more than 80,000 logs. Developed web application for showcasing the project.
+        - title: Data Analytics Intern
+          company: Jio Platforms Ltd.
+          company_url: ''
+          company_logo: 
+          location: 
+          date_start: '2023-04-01'
+          date_end: '2023-06-01'
+          description:
+           Worked on a project named "Improvising Operations through AI". It involved optimization using rule based algorithms. Developed a web application which further served as a prototype.
     design:
       columns: '2'
   - block: accomplishments
