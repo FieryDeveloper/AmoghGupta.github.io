@@ -27,8 +27,6 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''
