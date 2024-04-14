@@ -11,6 +11,8 @@ external_link: 'https://github.com/FieryDeveloper/CareerVaani'
 image:
   caption: 
   focal_point: Smart
+  src: 'pic.jpeg'  # Specify the path to the image file
+
 
 links:
 url_code: ''
