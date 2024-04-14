@@ -1,5 +1,5 @@
 ---
-title: Landsacping your Imagination
+title: Landscaping your Imagination
 date: 2019-07-12
 math: true
 image:
