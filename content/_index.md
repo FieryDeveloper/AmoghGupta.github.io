@@ -74,7 +74,7 @@ sections:
         - title: Research Intern
           company: IIT Indore
           company_url: ''
-          company_logo: lg1
+          company_logo: logoo
           location: 
           date_start: '2024-01-10'
           date_end:
@@ -102,7 +102,7 @@ sections:
         - title: Research Intern
           company: IIIT Pune
           company_url: ''
-          company_logo: 918px-IIITP_logo
+          company_logo: iiitp
           location: 
           date_start: '2022-05-01'
           date_end: '2024-02-01'
