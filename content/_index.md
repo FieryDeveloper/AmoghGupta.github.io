@@ -184,7 +184,7 @@ sections:
       text: |-
         Happy to network and ready to connect!
       # Contact (add or remove contact options as necessary)
-      email: amoghag2003@gmail.com
+      email: 
       phone: +91 9008116233
       appointment_url: 
       address:
