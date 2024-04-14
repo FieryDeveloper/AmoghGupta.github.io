@@ -99,6 +99,15 @@ sections:
           date_end: '2023-06-01'
           description:
            Worked on a project named "Improvising Operations through AI". It involved optimization using rule based algorithms. Developed a web application which further served as a prototype.
+        - title: Research Intern
+          company: IIIT Pune
+          company_url: ''
+          company_logo: 
+          location: 
+          date_start: '2022-05-01'
+          date_end: '2024-02-01'
+          description:
+           Researched under Dr. Sanjeev Sharma and worked on transfer learning and object detection. Mentored 3 juniors in the same domains and implemented several research papers.
     design:
       columns: '2'
   
