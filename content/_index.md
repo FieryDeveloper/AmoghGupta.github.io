@@ -65,7 +65,7 @@ sections:
         - title: Research Intern
           company: IIT Indore
           company_url: ''
-          company_logo: org-gc
+          company_logo: iitkgp.svg
           location: 
           date_start: '2024-01-15'
           date_end: ''
