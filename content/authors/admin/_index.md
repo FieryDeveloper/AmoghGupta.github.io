@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Amogh Gupta
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: Amogh Gupta
@@ -66,6 +66,17 @@ skills:
         percent: 90
         icon: bug-slash
         icon_pack: fas
+      - name: Mathematics
+        description: ''
+        percent: 100
+        icon: calculator
+        icon_pack: fas
+      - name: Research
+        description: ''
+        percent: 80
+        icon: magnifying-glass
+        icon_pack: fas
+      
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -85,6 +96,11 @@ skills:
         percent: 100
         icon: tasks
         icon_pack: fas
+      - name: Author
+        description: ''
+        percent: 60
+        icon: book
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -93,7 +109,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:amoghag2003@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AmoghGupta04
