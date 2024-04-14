@@ -74,7 +74,7 @@ sections:
         - title: Research Intern
           company: IIT Indore
           company_url: ''
-          company_logo: logo
+          company_logo: lg1
           location: 
           date_start: '2024-01-10'
           date_end:
