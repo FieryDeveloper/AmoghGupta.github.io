@@ -184,7 +184,7 @@ sections:
       text: |-
         Happy to network and ready to connect!
       # Contact (add or remove contact options as necessary)
-      email: 
+      email: amoghag2003@gmail.com
       phone: +91 9008116233
       appointment_url: 
       address:
@@ -205,10 +205,7 @@ sections:
           icon_pack: fab
           name: DM Me
           link: 'https://www.linkedin.com/in/connectamogh/'
-        - icon: envelope
-          icon_pack: fas
-          name: Mail Me
-          link: 'amoghag2003@gmail.com'
+        
       # Automatically link email and phone or display as text?
       autolink: true
     design:
