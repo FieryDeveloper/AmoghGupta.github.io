@@ -65,7 +65,7 @@ sections:
         - title: SDE Intern
           company: Nomura
           company_url: 'https://www.nomura.com/'
-          company_logo: nomura.svg
+          company_logo: nomura
           location: 
           date_start: '2025-01-01'
           date_end: ''
@@ -74,7 +74,7 @@ sections:
         - title: SWE Intern
           company: AIAssistant
           company_url: 'https://www.aiassistant.co/'
-          company_logo: ai.svg
+          company_logo: ai
           location: 
           date_start: '2024-08-01'
           date_end: '2025-01-01'
@@ -83,7 +83,7 @@ sections:
         - title: Data and GenAI Intern
           company: Ernst and Young
           company_url: 'https://www.ey.com/en_in'
-          company_logo: ey.svg
+          company_logo: ey
           location: 
           date_start: '2024-05-01'
           date_end: '2024-08-01'
