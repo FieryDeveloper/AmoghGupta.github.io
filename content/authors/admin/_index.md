@@ -25,7 +25,7 @@ organizations:
     url: https://www.iiitp.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AI,machine learning,Computer vision, NLP and I love innovation!
+bio: My research interests include AI,machine learning,NLP,Computer vision,  and I love innovation! 
 
 # Interests to show in About widget
 interests:
@@ -113,7 +113,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:amoghag2003@gmail.com'
+    link: 'mailto:amoghwork3@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AmoghGupta04
@@ -131,11 +131,11 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Amogh_Resume.pdf
+    link: uploads/AmoghGupta_Resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Amogh Gupta is an undergraduate at IIIT Pune. He is pursuing Computer science along with honors in machine learning. He is fond of machine learning, deep learning, NLP, data science and is intrigued by entrepreneurship and innovation. His extracurricular interests lie in doing community work , chess and table tennis. He is a team player and is socially sound.
+Amogh Gupta is an undergraduate at IIIT Pune. He is pursuing Computer science along with honors in machine learning. He is fond of machine learning, deep learning, NLP, data science and is intrigued by entrepreneurship and innovation. His extracurricular interests lie in doing community work , chess and table tennis. He is a team player and is socially sound. He has graduated 3rd in his batch and is a gold medallist in machine learning. 
 {style="text-align: justify;"}

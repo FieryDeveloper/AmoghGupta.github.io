@@ -62,6 +62,33 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: SDE Intern
+          company: Nomura
+          company_url: 'https://www.nomura.com/'
+          company_logo: nomura.svg
+          location: 
+          date_start: '2025-01-01'
+          date_end: ''
+          description: |2-
+            Currently interning at Nomura as part of the Budgeting Technology team, where I work on developing and enhancing internal financial tools. My responsibilities include implementing improvements and feature enhancements using a tech stack of React, Java, and SQL. I actively contribute to resolving Jira tickets, optimizing existing functionalities, and supporting day-to-day development tasks to ensure efficient and scalable solutions within the team’s budgeting platforms.
+        - title: SWE Intern
+          company: AIAssistant
+          company_url: 'https://www.aiassistant.co/'
+          company_logo: ai.svg
+          location: 
+          date_start: '2024-08-01'
+          date_end: '2025-01-01'
+          description: |2-
+            At AI Assistant, I developed state-of-the-art solutions using Generative AI for multi-modal communication, focusing on building agentic AI systems capable of natural and dynamic interactions. I worked on integrating voice-based capabilities using advanced text-to-speech (TTS) and speech-to-text technologies, enabling asynchronous, human-like conversations. My responsibilities included conducting research, testing, and ongoing maintenance for various client-facing projects in a remote setting. I also collaborated closely with the team to design and implement innovative prompting strategies and system architectures that enhanced the intelligence and responsiveness of AI agents.
+        - title: Data and GenAI Intern
+          company: Ernst and Young
+          company_url: 'https://www.ey.com/en_in'
+          company_logo: ey.svg
+          location: 
+          date_start: '2024-05-01'
+          date_end: '2024-08-01'
+          description: |2-
+            At EY in Pune, India, I developed business and technical solutions for Fortune 100 clients by leveraging Generative AI technologies. I implemented a Retrieval-Augmented Generation (RAG) pipeline using Databricks, Azure, LangChain, chain-of-thought prompting, and vector databases with custom indexing to build a chatbot for intelligent document search—boosting information retrieval efficiency by 200%. Working in cross-functional teams, I played a key role in driving innovation within technology consulting and delivering impactful AI-driven solutions.
         - title: Research Intern
           company: IIT Kharagpur
           company_url: ''
@@ -70,7 +97,7 @@ sections:
           date_start: '2024-04-10'
           date_end: ''
           description: |2-
-              Working on Red teaming LLMs.
+            During my internship, I actively participated in red-teaming initiatives to identify safety limitations and vulnerabilities in large language models (LLMs). This included successfully jailbreaking over seven models—such as Claude (Sonnet and Haiku), ChatGPT, Gemini, and others—using advanced multilingual custom prompt techniques. I contributed to developing and refining strategies to improve model robustness and ethical alignment. Additionally, I built custom Python scripts for automating output evaluation and supported research efforts by proposing novel ideas and contributing to project objectives.
         - title: Research Intern
           company: IIT Indore
           company_url: ''
@@ -79,8 +106,7 @@ sections:
           date_start: '2024-01-10'
           date_end:
           description:
-           Working on a project based on summarization incoorporating LLMs and novel methods.
-           Working on another project based on flood segmentation.
+           During my internship, I worked on two core projects involving Natural Language Processing and Computer Vision. I implemented advanced text summarization techniques to condense a dataset of 3,000 tweets into the most relevant 40, using large language models and integer linear programming to enhance summarization accuracy and efficiency. In another project focused on flood detection, I applied image segmentation techniques to improve classification performance and support more effective data analysis.
         - title: Machine Learning Intern
           company: DRDO ( Research Centre Imaarat )
           company_url: ''
@@ -184,7 +210,7 @@ sections:
       text: |-
         Happy to network and ready to connect!
       # Contact (add or remove contact options as necessary)
-      email: amoghag2003@gmail.com
+      email: amoghwork03@gmail.com
       phone: +91 9008116233
       appointment_url: 
       address:
